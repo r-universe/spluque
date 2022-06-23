@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diveMove"]
+	path = diveMove
+	url = https://github.com/spluque/divemove
+	shallow = true
+	registered = true
